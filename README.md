@@ -73,5 +73,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ljyou001&repo=django-twitter-backend&theme=neon" />
 </a>
 <a href="https://github.com/ljyou001/Leetcode-Problems-in-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ljyou001&repo=Express-Postgres-blog&theme=neon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ljyou001&repo=Leetcode-Problems-in-Python&theme=neon" />
 </a>
