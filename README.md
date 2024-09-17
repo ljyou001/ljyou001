@@ -60,18 +60,18 @@ Here are some ideas to get you started:
 ### My Github Stats
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ljyou001&theme=neon" alt="ljyou001" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ljyou001" alt="ljyou001" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljyou001&theme=neon&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljyou001&hide_border=true&&langs_count=10" />
 
 ---
 
 ### Top Repositories
 
 <a href="https://github.com/ljyou001/django-twitter-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ljyou001&repo=django-twitter-backend&theme=neon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ljyou001&repo=django-twitter-backend" />
 </a>
 <a href="https://github.com/ljyou001/Leetcode-Problems-in-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ljyou001&repo=Leetcode-Problems-in-Python&theme=neon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ljyou001&repo=Leetcode-Problems-in-Python" />
 </a>
