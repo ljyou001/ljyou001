@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oliver Lyu</h1>
-<h3 align="center">Software Engineer with over 4 years of expeirence</h3>
+<h3 align="center">Software Engineer with over 6 years of expeirence</h3>
 
 <!--
 **ljyou001/ljyou001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
